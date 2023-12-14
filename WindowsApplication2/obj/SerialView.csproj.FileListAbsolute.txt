@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\바탕 화면\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Documents and Settings\Administrator\바탕 화면\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Documents and Settings\Administrator\바탕 화면\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\WindowsApplication2\WindowsApplication2\obj\Debug\SerialView.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Documents and Settings\Administrator\바탕 화면\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\Administrator\바탕 화면\SerialView1\WindowsApplication2\bin\Debug\SerialView.exe
+C:\Documents and Settings\Administrator\바탕 화면\SerialView1\WindowsApplication2\bin\Debug\SerialView.pdb
+C:\Documents and Settings\Administrator\바탕 화면\SerialView1\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\SerialView1\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Documents and Settings\Administrator\바탕 화면\SerialView1\WindowsApplication2\obj\Debug\SerialView.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\SerialView1\WindowsApplication2\obj\Debug\SerialView.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\SerialView1\WindowsApplication2\obj\Debug\SerialView.exe
+C:\Documents and Settings\Administrator\바탕 화면\SerialView1\WindowsApplication2\obj\Debug\SerialView.pdb
+D:\KTK_Projects\SerialView1\WindowsApplication2\obj\Debug\SerialView.exe
+D:\KTK_Projects\SerialView1\WindowsApplication2\obj\Debug\SerialView.pdb
+D:\KTK_Projects\SerialView1\WindowsApplication2\bin\Debug\SerialView.exe
+D:\KTK_Projects\SerialView1\WindowsApplication2\bin\Debug\SerialView.pdb
+D:\KTK_Projects\SerialView1\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\KTK_Projects\SerialView1\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\KTK_Projects\SerialView1\WindowsApplication2\obj\Debug\SerialView.Properties.Resources.resources
+D:\KTK_Projects\SerialView1\WindowsApplication2\obj\Debug\SerialView.csproj.GenerateResource.Cache
